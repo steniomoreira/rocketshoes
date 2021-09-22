@@ -22,6 +22,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Javascript
 - HTML
 
+<a href="https://rocketshoes-henna.vercel.app" target="_blank">Ver aplicação</a>
+
 ## 💻 Projeto
 Nessa aplicação o seu principal objetivo é criar um hook de carrinho de compras. O projeto terá acesso a duas páginas, um componente e um hook para implementar as funcionalidades pedidas nesse desafio:
 
@@ -32,6 +34,7 @@ Nessa aplicação o seu principal objetivo é criar um hook de carrinho de compr
 - Validação de estoque;
 - Exibição de mensagens de erro;
 - Entre outros.
+
 
 ### Fake API com JSON Server
 
@@ -51,7 +54,7 @@ Em seguida, você vai ver a mensagem:
 
 Perceba que ele iniciou uma fake API com os recursos /stock e /products em localhost na porta 3333 a partir das informações do arquivo server.json localizado na raiz do seu projeto. Acessando essas rotas no seu navegador, você consegue ver o retorno das informações já em JSON:
 
-<img alt="Api fake" src=".github/getStock.jpg" width="300px"> | <img alt="Api fake" src=".github/getProducts.jpg" width="400px">
+<img alt="Api fake" src=".github/getStock.jpg" width="300px"> <img alt="Api fake" src=".github/getProducts.jpg" width="400px">
 
 
 e para rodar aplicação é só executar o seguinte comando no terminal:
