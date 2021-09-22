@@ -57,7 +57,7 @@ Perceba que ele iniciou uma fake API com os recursos /stock e /products em local
 e para rodar aplicação é só executar o seguinte comando no terminal:
 
 ```bash
-yarn dev
+yarn start
 ```
 
 ### Preservando carrinho com localStorage API
