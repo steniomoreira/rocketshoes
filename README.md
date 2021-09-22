@@ -35,7 +35,7 @@ Nessa aplicação o seu principal objetivo é criar um hook de carrinho de compr
 
 ### Fake API com JSON Server
 
-Na aplicação é utilizado o JSON Server para simular uma API que possui as informações de gêneros e filmes. 
+Na aplicação é utilizado o JSON Server para simular uma API que possui as informações de stock e products. 
 
 Navegue até a pasta criada, abra no Visual Studio Code e execute os seguintes comandos no terminal:
 
