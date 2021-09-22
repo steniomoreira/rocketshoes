@@ -22,7 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Javascript
 - HTML
 
-<a href="https://rocketshoes-henna.vercel.app" target="_blank">Ver aplicação</a>
+[Ver aplicação](https://rocketshoes-henna.vercel.app)
 
 ## 💻 Projeto
 Nessa aplicação o seu principal objetivo é criar um hook de carrinho de compras. O projeto terá acesso a duas páginas, um componente e um hook para implementar as funcionalidades pedidas nesse desafio:
