@@ -51,7 +51,7 @@ Em seguida, você vai ver a mensagem:
 
 Perceba que ele iniciou uma fake API com os recursos /stock e /products em localhost na porta 3333 a partir das informações do arquivo server.json localizado na raiz do seu projeto. Acessando essas rotas no seu navegador, você consegue ver o retorno das informações já em JSON:
 
-<img alt="Api fake" src=".github/getStock.jpg" width="300px"> <img alt="Api fake" src=".github/getProducts.jpg" width="400px">
+<img alt="Api fake" src=".github/getStock.jpg" width="300px"> | <img alt="Api fake" src=".github/getProducts.jpg" width="400px">
 
 
 e para rodar aplicação é só executar o seguinte comando no terminal:
@@ -67,11 +67,11 @@ Para preservar os dados do carrinho mesmo se fecharmos a aplicação, foi utiliz
 Essa é uma API que nos permite persistir dados no navegador em um esquema de chave-valor (semelhante ao que temos com objetos JSON).
 
 ### Para esse desafio, temos os seguintes testes:
-:test_tube: Teste components/Header/index.tsx
-:test_tube: Testes pages/Home/index.tsx
-:test_tube: Testes pages/Cart/index.tsx
-:test_tube: Testes hooks/useCart.tsx
+:test_tube: Teste components/Header/index.tsx  
+:test_tube: Testes pages/Home/index.tsx  
+:test_tube: Testes pages/Cart/index.tsx  
+:test_tube: Testes hooks/useCart.tsx  
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
