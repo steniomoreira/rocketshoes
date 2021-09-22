@@ -57,7 +57,7 @@ Perceba que ele iniciou uma fake API com os recursos /stock e /products em local
 e para rodar aplicação é só executar o seguinte comando no terminal:
 
 ```bash
-yarn dev
+yarn start
 ```
 
 ### Preservando carrinho com localStorage API
@@ -74,4 +74,8 @@ Essa é uma API que nos permite persistir dados no navegador em um esquema de ch
 
 ## :memo: Licença
 
+<<<<<<< HEAD
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+=======
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+>>>>>>> 3555efe9132e37d712161363e65165c2aa321757
